@@ -1,0 +1,59 @@
+@font-face {
+  font-family: "roboto";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix") format("embedded-opentype"), url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"), url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "roboto";
+  font-style: normal;
+  font-weight: bold;
+  src: url("../fonts/RobotoBold/RobotoBold.eot?#iefix") format("embedded-opentype"), url("../fonts/RobotoBold/RobotoBold.woff") format("woff"), url("../fonts/RobotoBold/RobotoBold.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Yantramanav";
+  font-style: normal;
+  font-weight: 100;
+  src: url("../fonts/YantramanavThin/YantramanavThin.eot?#iefix") format("embedded-opentype"), url("../fonts/YantramanavThin/YantramanavThin.woff2") format("woff2"), url("../fonts/YantramanavThin/YantramanavThin.woff") format("woff"), url("../fonts/YantramanavThin/YantramanavThin.ttf") format("truetype"), url("../fonts/YantramanavThin/YantramanavThin.svg#Yantramanav") format("svg"); }
+
+@font-face {
+  font-family: "Yantramanav";
+  font-style: normal;
+  font-weight: 300;
+  src: url("../fonts/YantramanavLight/YantramanavLight.eot?#iefix") format("embedded-opentype"), url("../fonts/YantramanavLight/YantramanavLight.woff2") format("woff2"), url("../fonts/YantramanavLight/YantramanavLight.woff") format("woff"), url("../fonts/YantramanavLight/YantramanavLight.ttf") format("truetype"), url("../fonts/YantramanavLight/YantramanavLight.svg#Yantramanav") format("svg"); }
+
+@font-face {
+  font-family: "Yantramanav";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/YantramanavRegular/YantramanavRegular.eot?#iefix") format("embedded-opentype"), url("../fonts/YantramanavRegular/YantramanavRegular.woff2") format("woff2"), url("../fonts/YantramanavRegular/YantramanavRegular.woff") format("woff"), url("../fonts/YantramanavRegular/YantramanavRegular.ttf") format("truetype"), url("../fonts/YantramanavRegular/YantramanavRegular.svg#Yantramanav") format("svg"); }
+
+@font-face {
+  font-family: "Yantramanav";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/YantramanavMedium/YantramanavMedium.eot?#iefix") format("embedded-opentype"), url("../fonts/YantramanavMedium/YantramanavMedium.woff2") format("woff2"), url("../fonts/YantramanavMedium/YantramanavMedium.woff") format("woff"), url("../fonts/YantramanavMedium/YantramanavMedium.ttf") format("truetype"), url("../fonts/YantramanavMedium/YantramanavMedium.svg#Yantramanav") format("svg"); }
+
+@font-face {
+  font-family: "Yantramanav";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/YantramanavBold/YantramanavBold.eot?#iefix") format("embedded-opentype"), url("../fonts/YantramanavBold/YantramanavBold.woff2") format("woff2"), url("../fonts/YantramanavBold/YantramanavBold.woff") format("woff"), url("../fonts/YantramanavBold/YantramanavBold.ttf") format("truetype"), url("../fonts/YantramanavBold/YantramanavBold.svg#Yantramanav") format("svg"); }
+
+@font-face {
+  font-family: "Yantramanav";
+  font-style: normal;
+  font-weight: 900;
+  src: url("../fonts/YantramanavBlack/YantramanavBlack.eot?#iefix") format("embedded-opentype"), url("../fonts/YantramanavBlack/YantramanavBlack.woff2") format("woff2"), url("../fonts/YantramanavBlack/YantramanavBlack.woff") format("woff"), url("../fonts/YantramanavBlack/YantramanavBlack.ttf") format("truetype"), url("../fonts/YantramanavBlack/YantramanavBlack.svg#Yantramanav") format("svg"); }
+
+@font-face {
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 300;
+  src: url("../fonts/NunitoLight/Nunito-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/NunitoLight/Nunito-Light.woff") format("woff"), url("../fonts/NunitoLight/Nunito-Light.ttf") format("truetype"), url("../fonts/NunitoLight/Nunito-Light.svg#Nunito") format("svg"); }
+
+@font-face {
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/NunitoRegular/Nunito-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/NunitoRegular/Nunito-Regular.woff") format("woff"), url("../fonts/NunitoRegular/Nunito-Regular.ttf") format("truetype"), url("../fonts/NunitoRegular/Nunito-Regular.svg#Nunito") format("svg"); }

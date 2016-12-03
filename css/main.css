@@ -1,4 +1,4 @@
-/*        FONTS ========================================= */
+/*				FONTS ========================================= */
 @font-face {
   font-family: "roboto";
   font-style: normal;
@@ -58,7 +58,6 @@
   font-style: normal;
   font-weight: 400;
   src: url("../fonts/NunitoRegular/Nunito-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/NunitoRegular/Nunito-Regular.woff") format("woff"), url("../fonts/NunitoRegular/Nunito-Regular.ttf") format("truetype"), url("../fonts/NunitoRegular/Nunito-Regular.svg#Nunito") format("svg"); }
-
 
 /*				RESETS ========================================= */
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
@@ -249,12 +248,15 @@ body {
   max-width: 480px;
   margin: 0 auto; }
   .subscribe__input {
+    font-family: Yantramanav, Tahoma, Arial, sans-serif;
     border: 0;
     padding: 12px 10px 12px 30px;
     -webkit-border-radius: 25px 0 0 25px;
             border-radius: 25px 0 0 25px;
     float: left;
-    width: 64.58%; }
+    width: 64.58%;
+    font-size: 1.0625em;
+    font-weight: 100; }
   .subscribe__submit {
     border: 0;
     -webkit-border-radius: 0 25px 25px 0;
@@ -305,18 +307,16 @@ body {
   margin-bottom: 35px; }
 
 .box-50 {
-  position: absolute;
+  min-height: 1px;
   width: 50%;
   height: 100%;
   display: table;
   vertical-align: middle;
   min-height: 800px; }
   .box-50--left {
-    top: 0;
-    left: 0; }
+    float: left; }
   .box-50--right {
-    top: 0;
-    right: 0; }
+    float: right; }
 
 .side-content {
   margin: 0 auto;
