@@ -262,7 +262,6 @@ body {
     -webkit-border-radius: 0 25px 25px 0;
             border-radius: 0 25px 25px 0;
     font-family: Nunito, Tahoma, Arial, sans-serif;
-    padding: 14px 15px;
     font-size: 19px;
     font-weight: bold;
     float: left;
@@ -270,7 +269,9 @@ body {
     background: #20ab50;
     color: #fff;
     border-left: 1px solid #96d7ad;
-    letter-spacing: 0.025em; }
+    letter-spacing: 0.025em;
+    line-height: 47px;
+    padding: 0; }
 
 .dots-nav {
   list-style: none;
@@ -518,7 +519,7 @@ body {
     color: #000; }
 
 /*				SUNG-UP SECT ========================================= */
-.singup {
+.signup {
   background: #f3f3f3;
   padding: 135px 0 113px; }
 
@@ -775,8 +776,7 @@ body {
     padding: 14px 10px 13px 20px;
     width: 60%; }
   .subscribe__submit {
-    width: 40%;
-    line-height: 1; }
+    width: 40%; }
   .side-content {
     padding: 20% 10%; }
   .range-slide__box {
