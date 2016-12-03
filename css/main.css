@@ -776,7 +776,8 @@ body {
     padding: 14px 10px 13px 20px;
     width: 60%; }
   .subscribe__submit {
-    width: 40%; }
+    width: 40%;
+    padding: 10px 0; }
   .side-content {
     padding: 20% 10%; }
   .box-50 {
